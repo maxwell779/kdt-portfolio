@@ -1,0 +1,11 @@
+data/
+*.csv
+*.xlsx
+*.xls
+__pycache__/
+.ipynb_checkpoints/
+*.pth
+*.pt
+runs/
+wandb/
+.DS_Store
