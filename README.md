@@ -13,9 +13,9 @@
 
 | 프로젝트 | 설명 | 저장소 |
 |---|---|---|
-| 🔥 산불·연기 실시간 탐지 | YOLOv8 실탐지 + **산림청용 관제 앱**(이미지·영상) · mAP50 0.78 | [wildfire-detection](https://github.com/maxwell779/wildfire-detection) |
-| 💊 알약 이미지 이상탐지 | KNN 비지도 이상탐지 + **산업 검사 앱**(PASS/FAIL) · F2 0.85 | [pill-anomaly-detection](https://github.com/maxwell779/pill-anomaly-detection) |
-| 📦 식료품 폐기 리스크 ML | 회귀·스태킹 + **폐기 예측 앱** · MAE 0.0337 | [grocery-waste-ml](https://github.com/maxwell779/grocery-waste-ml) |
+| 🔥 산불·연기 실시간 탐지 | YOLOv8 실탐지 + **산림청용 관제 앱**(이미지·영상) · mAP50 0.78 | [wildfire-detection](https://github.com/maxwell779/wildfire-detection) · [▶️Demo](https://wildfire-detection-magbcdezyjoskgcholyiyw.streamlit.app/) |
+| 💊 알약 이미지 이상탐지 | KNN 비지도 이상탐지 + **산업 검사 앱**(PASS/FAIL) · F2 0.85 | [pill-anomaly-detection](https://github.com/maxwell779/pill-anomaly-detection) · [▶️Demo](https://pill-anomaly-detection-azlwvnidzu4zjkahewyadp.streamlit.app/) |
+| 📦 식료품 폐기 리스크 ML | 회귀·스태킹 + **폐기 예측 앱** · MAE 0.0337 | [grocery-waste-ml](https://github.com/maxwell779/grocery-waste-ml) · [▶️Demo](https://grocery-waste-ml-5fezqfu8kdm8tm69kojv7g.streamlit.app/) |
 
 ---
 
