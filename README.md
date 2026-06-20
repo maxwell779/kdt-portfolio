@@ -3,7 +3,7 @@
 > KDT(경북대 융복합연구원) AI·데이터 과정에서 수행한 프로젝트 모음입니다.
 > 데이터 분석 → 머신러닝 → 딥러닝(CV)까지 단계적으로 진행했습니다.
 
-📧 rnjsgywnd777@gmail.com ｜ 💻 [github.com/maxwell779](https://github.com/maxwell779) ｜ 📄 [Notion 포트폴리오](https://standing-whimsey-227.notion.site/_-10837ef64c53825b951681a9b18d1e72)
+📧 rnjsgywnd777@naver.com ｜ 💻 [github.com/maxwell779](https://github.com/maxwell779) ｜ 📄 [Notion 포트폴리오](https://standing-whimsey-227.notion.site/_-10837ef64c53825b951681a9b18d1e72)
 
 ---
 
