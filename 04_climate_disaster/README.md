@@ -2,7 +2,7 @@
 
 > 4대 재해와 기후변수 상관
 
-- **구성**: 팀(4팀) · 본인: 산불 파트
+- **구성**: 팀 · 본인: 산불 파트
 - **핵심 성과**: 습도↔산불 -0.62
 
 ![correlation_heatmap.png](images/correlation_heatmap.png)
